@@ -1,6 +1,6 @@
 
 <h1 align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZsYTA0M2FsMjBlN2E3NmdwejRubXprZ3A3d2hvM25zemV5MDN0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QAsu4cugSWDOo7JI8Y/200.gif" width="35"><b> Hi...! I'm Tlapanco  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"> <img style="margin:0;" src="https://komarev.com/ghpvc/?username=tlapanco&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center"> <img style="margin:0;" src="https://komarev.com/ghpvc/?username=tlapanco&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /> </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=50&lines=Web+developer...;Freelance+dev...;Tutor...&hearts;"></a>
 </p>

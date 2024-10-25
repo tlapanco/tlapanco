@@ -17,19 +17,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3" alt="hola" /></a> </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight" alt="hola" />
-</p>
-  
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <p align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </p>
 
 <p align="center">  
@@ -99,3 +86,18 @@
   
   </p>
 </div>
+<br><br>
+
+## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3" alt="hola" /></a> </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight" alt="hola" />
+</p>
+  
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+

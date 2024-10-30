@@ -7,7 +7,7 @@
 
 
 <pre align="center">
-    🇲🇽 Mexican    🆎 Him / He
+    🇲🇽 Mexico    🆎 Him / He
     💻 Experience building WEB aplications
     📖 Love reading 🎮 Love videogames 
     ⚽ Soccer 📋 Learning React Native

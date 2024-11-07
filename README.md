@@ -91,10 +91,10 @@
 
 ## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3" alt="hola" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3" alt="tlapanco's github trophies" /></a> </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight" alt="hola" />
+<p align="center"> 
+  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight" alt="tlapanco's github stats"/></a>
 </p>
   
 

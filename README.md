@@ -7,10 +7,10 @@
 
 
 <pre align="center">
-    🇲🇽 Mexico    🆎 Him / He
-    💻 Experience building WEB aplications
-    📖 Love reading 🎮 Love videogames 
-    ⚽ Soccer 📋 Learning React Native
+🇲🇽 Mexico    🆎 Him / He
+💻 Experience building WEB aplications
+📖 Love reading 🎮 Love videogames 
+⚽ Soccer 📋 Learning React Native
 </pre>
 
 

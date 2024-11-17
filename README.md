@@ -93,10 +93,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3&no-bg=true" alt="tlapanco's github trophies" /></a> </p>
 
-<p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="tlapanco's github stats"/></a>
-  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent&text_color=000#gh-light-mode-only" alt="tlapanco's github stats"/></a>
+<p align="center">   
+  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="tlapanco's github stats"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=000&border_radius=30&border_color=17B1C3&theme=transparent#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent&text_color=000#gh-light-mode-only" alt="tlapanco's github stats"/>
+  </a>
 </p>
 
 </div>
-

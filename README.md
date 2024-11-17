@@ -20,8 +20,7 @@
 ## <p align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </p>
 
 <p align="center">    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="Most used languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=algolia#gh-light-mode-only" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=17b1c3&border_radius=30&border_color=17B1C3&theme=transparent" alt="Most used languages" />
 </p>
 <br>
 <div>

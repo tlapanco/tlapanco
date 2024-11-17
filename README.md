@@ -91,7 +91,7 @@
 
 ## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3&no-bg=true" alt="tlapanco's github trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=nord&margin-w=10&column=3&no-bg=true" alt="tlapanco's github trophies" /></a> </p>
 
 <p align="center">   
   <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only">

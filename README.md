@@ -19,8 +19,8 @@
 
 ## <p align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> </p>
 
-<p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&theme=highcontrast" alt="Most used languages" />
+<p align="center">    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="Most used languages" />
 </p>
 <br>
 <div>
@@ -91,12 +91,11 @@
 
 ## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3" alt="tlapanco's github trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tlapanco&title=Commits,Repositories,Experience&theme=gitdimmed&margin-w=10&column=3&no-bg=true" alt="tlapanco's github trophies" /></a> </p>
 
 <p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&theme=tokyonight" alt="tlapanco's github stats"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tlapanco&show_icons=true&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="tlapanco's github stats"/></a>
 </p>
-  
 
 </div>
 

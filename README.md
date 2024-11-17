@@ -21,6 +21,7 @@
 
 <p align="center">    
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=transparent#gh-dark-mode-only" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlapanco&layout=compact&locale=en&title_color=17B1C3&text_color=fff&border_radius=30&border_color=17B1C3&theme=algolio#gh-light-mode-only" alt="Most used languages" />
 </p>
 <br>
 <div>

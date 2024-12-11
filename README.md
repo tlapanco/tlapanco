@@ -62,6 +62,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>        
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" alt="sqlserver" title="SQLServer"/> 
     </kbd>
     <br>
     <br>
